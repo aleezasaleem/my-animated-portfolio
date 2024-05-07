@@ -8,10 +8,7 @@ import { useRouter } from 'next/navigation';
 
 const Hero = () => {
   
-  const handleOpenGithub = () => {
-    // Open GitHub URL in a new tab
-    window.open('https://github.com/aleezasaleem');
-  }
+  
   const router=useRouter()
   return (
    
