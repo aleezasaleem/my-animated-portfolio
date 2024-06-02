@@ -7,7 +7,7 @@ const data=[{
 },
 {
     image:'/todo.PNG',
-    link:'https://todo-list-nextjs-pi.vercel.app/'
+    link:'https://todolist-nextjs-livid.vercel.app/'
 },
 {
     image:'/ecommerce.PNG',
