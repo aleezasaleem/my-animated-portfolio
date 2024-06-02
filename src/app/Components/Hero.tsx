@@ -40,7 +40,7 @@ const Hero = () => {
        
        
          <div> 
-        <a data-aos="fade-up-right" href='/aleeza.pdf' download={'cv'} className='flex items-center justify-center mt-8 px-6 py-3 w-full sm:w-fit rounded-md mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white hover:scale-105'>Download CV  </a>
+        <a data-aos="fade-up-right" href='https://github.com/aleezasaleem' className='flex items-center justify-center mt-8 px-6 py-3 w-full sm:w-fit rounded-md mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white hover:scale-105'>Github Profile </a>
         
     </div>
         

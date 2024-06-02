@@ -18,6 +18,7 @@ const About = () => {
                 <li>React Js</li>
                 <li>Angular Js</li>
                 <li>Next js</li>
+              
             </ul>
         </div>
         </div>

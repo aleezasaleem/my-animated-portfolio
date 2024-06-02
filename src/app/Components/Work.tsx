@@ -4,6 +4,14 @@ import Image from 'next/image'
 const data=[{
     image:'/panaverse.PNG',
     link:'https://panaverse-daoclone--lime.vercel.app/'
+},
+{
+    image:'/todo.PNG',
+    link:'https://todo-list-nextjs-pi.vercel.app/'
+},
+{
+    image:'/ecommerce.PNG',
+    link:'https://e-commerce-shop-wine.vercel.app/'
 },{
     image:'/cloudinary.PNG',
     link:'https://photo-album-drab.vercel.app/'
